@@ -13,9 +13,10 @@ O curso abrange conceitos avançados de Java e Programação Orientada a Objetos
 
 ## Estrutura do Repositório
 
-- 📁 **Projetos:** Este diretório contém os projetos práticos desenvolvidos ao longo do curso.
+- 📁 **UdemyCursoJava:** Este diretório contém os projetos práticos desenvolvidos ao longo do curso.
 
-- 📁 **Exercicios:** Aqui estão os exercícios e desafios propostos durante as aulas para praticar e aprimorar as habilidades em Java.
+- 📁 **Exercicios:** Os diretórios de exercicios, contém, 2 PDfs: Um de orientação e explicação e outro com os desafios e exercícios propostos durante as aulas para praticar e aprimorar as habilidades em Java.
+- 📁 **src:** Códigos fonte.
 
 - 📁 **Recursos:** Recursos adicionais, como diagramas, esquemas, ou qualquer material de apoio relacionado ao curso.
 
